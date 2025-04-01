@@ -30,8 +30,7 @@ public class SpecialtyCoffee extends Coffee
   // Method override of Coffee toString
   public String toString()
   {
-    // we will edit in class
-    return null;
+   return super.toString() + " with " + flavor;
   }
 
   // print a message that compares the prices of a regular Coffee
