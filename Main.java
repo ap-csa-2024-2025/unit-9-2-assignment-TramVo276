@@ -18,6 +18,8 @@ public class Main
     // Uncomment to test the Car classes
     // CarTester.run();
 
+    CarTester a = new CarTester()
+
     // Uncomment to test the Company classes
     // CompanyTester.run();
   }
